@@ -1,0 +1,7 @@
+C:\Users\carrascoja\source\repos\UsoFacade\UsoFacade\bin\Debug\UsoFacade.exe.config
+C:\Users\carrascoja\source\repos\UsoFacade\UsoFacade\bin\Debug\UsoFacade.exe
+C:\Users\carrascoja\source\repos\UsoFacade\UsoFacade\bin\Debug\UsoFacade.pdb
+C:\Users\carrascoja\source\repos\UsoFacade\UsoFacade\obj\Debug\UsoFacade.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\UsoFacade\UsoFacade\obj\Debug\UsoFacade.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\UsoFacade\UsoFacade\obj\Debug\UsoFacade.exe
+C:\Users\carrascoja\source\repos\UsoFacade\UsoFacade\obj\Debug\UsoFacade.pdb
